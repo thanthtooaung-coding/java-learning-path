@@ -4,7 +4,8 @@ import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
 
 const COURSE_DAYS = [
-  { id: 1, title: "Java Basics", description: "Learn the fundamentals of Java programming language", path: "/day-one" },
+  { id: 1, title: "Introduction to Java", description: "Learn the fundamentals of Java programming language", path: "/day-one" },
+  { id: 2, title: "Variables, Data Types & Operators", description: "Learn about variables, data types, user input, type casting, and operators", path: "/day-two" },
   // { id: 2, title: "Object-Oriented Programming", description: "Understand classes, objects, inheritance, and polymorphism", path: "/day-two" },
   // { id: 3, title: "Exception Handling", description: "Learn how to handle errors and exceptions in Java", path: "/day-three" },
   // { id: 4, title: "Collections Framework", description: "Explore Java's built-in data structures", path: "/day-four" },

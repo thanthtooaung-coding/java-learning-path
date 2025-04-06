@@ -22,9 +22,9 @@ const COURSE_DAYS = [
   },
   {
     id: 2,
-    title: "Data Types and Variables",
+    title: "Variables, Data Types & Operators",
     path: "/day-two",
-    completed: false,
+    completed: true,
   },
 //   {
 //     id: 3,
